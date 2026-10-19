@@ -1,4 +1,4 @@
-![Abstract modular interface architecture in charcoal, cyan and amber](assets/profile-banner.jpg)
+![Pixel-art workspace for Navid Talebi: React and TypeScript interfaces overlooking Tehran at night](assets/navid-workspace.jpg)
 
 # Navid Talebi
 
